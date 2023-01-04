@@ -29,7 +29,7 @@ export default {
       sidebarDepth: 1,
     },
     },
-    logo: '/resources/logo-konmai.png',
+    logo: '/resources/icons/logo-konmai.png',
     sidebar: [
       '/',
       {title: 'Konmai博客站', path: 'https://616.sb/blog/'},

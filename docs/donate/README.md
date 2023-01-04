@@ -8,4 +8,4 @@ Konmai衷心感谢您的每一分捐助，但因为Konmai承诺了下载服务�
 
 ### 微信赞赏
 
-![微信赞赏码](https://konmai.cn/resources/wechat-donate.png "微信赞赏")
+![微信赞赏码](/resources/img/wechat-donate.png "微信赞赏")
