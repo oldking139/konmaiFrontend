@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "scripts": {"build": "yarn vuepress build docs"},
+  "scripts": {"build": "vuepress build docs"},
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^2.0.0-beta.60",
     "@vuepress/plugin-google-analytics": "^2.0.0-beta.60",
